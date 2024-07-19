@@ -1,4 +1,7 @@
 # Land-usage-classification-in-Agriculture
+
+Dataset: https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery
+
 ## Problem Statement
 Land usage classification is a critical task in agriculture to ensure proper and legal use of land. Misuse can lead to significant economic and environmental issues. The aim of this project is to classify land use types based on aerial and satellite images of the earth's surface.
 
